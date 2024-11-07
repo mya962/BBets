@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Your Name Goes Here"
+author: "Mya Orozco"
 output: 
   html_document:
     number_sections: true
